@@ -69,6 +69,9 @@
 	.section8{
 	margin-top: 40vh;
 	}
+	h1{
+		font-size: 3vh !important;
+	}
 }
 .circle{
 	height: 30vh;
