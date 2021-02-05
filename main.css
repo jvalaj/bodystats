@@ -24,7 +24,7 @@
 	border-radius: 3rem;
 }
 .section3 {
-	height: 100vh;
+	height: 80vh;
 	display: flex;
 	align-items: center !important;
 	justify-content: center;
@@ -75,6 +75,9 @@
 	h1{
 		font-size: 3vh !important;
 	}
+	h3{
+		font-size: 2vh !important;
+	}
 }
 .circle{
 	height: 30vh;
@@ -100,5 +103,10 @@
 	.section4{
 		margin-top: 20vh !important;
 		margin-bottom: 30vh !important;
+		}
+}
+@media(max-width:450px){
+	.card{
+		width: 65vw !important;
 		}
 }
